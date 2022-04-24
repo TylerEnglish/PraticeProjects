@@ -10,7 +10,7 @@ The purpose of this program is to showcase how to write Hello World in python.
 # Development Environment
 
 * Visual Studio Code
-* Python 3.8
+* Python 3.9
 
 I used python as the program language. For me it's the easiest to use.
 
