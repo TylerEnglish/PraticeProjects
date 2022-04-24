@@ -5,7 +5,7 @@
 The purpose of this program is to showcase how to write Hello World in python.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_d4Mr_Aq9DM)
 
 # Development Environment
 
